@@ -2,7 +2,7 @@ API Node.js para controle de informações de aplicativo de viagem similar ao po
 
 *Serviços
 
--Upload de imagens
+- Upload de imagens
 - Finalização de autenticação
 - Criação de token para FCM (push messages)
 - Status da requisição (atualização de corrida)
